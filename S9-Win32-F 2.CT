@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>34</ID>
+      <Description>"16/Torret/senso/Life/metralha"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"S9-Win32-F.exe"+01FEA900</Address>
+      <Offsets>
+        <Offset>590</Offset>
+        <Offset>9C</Offset>
+        <Offset>68</Offset>
+        <Offset>68</Offset>
+        <Offset>80</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>62</ID>
+      <Description>"Inf Torret Defend"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"S9-Win32-F.exe"+01FA7B84</Address>
+      <Offsets>
+        <Offset>354</Offset>
+        <Offset>80</Offset>
+        <Offset>204</Offset>
+        <Offset>280</Offset>
+        <Offset>EC</Offset>
+        <Offset>28</Offset>
+        <Offset>9C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>65</ID>
+      <Description>"Inf torret Guerra"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"S9-Win32-F.exe"+01FA7B84</Address>
+      <Offsets>
+        <Offset>354</Offset>
+        <Offset>80</Offset>
+        <Offset>204</Offset>
+        <Offset>280</Offset>
+        <Offset>EC</Offset>
+        <Offset>4C</Offset>
+        <Offset>B0</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
